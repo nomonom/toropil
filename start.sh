@@ -22,12 +22,10 @@ sudo cp /tmp/none/$MNRCO /usr/bin/$MNRCO
 sleep 3
 sudo dos2unix pusk.sh
 sudo dos2unix checker.sh
-sudo dos2unix 75.sh
-sudo dos2unix 50.sh
-sudo dos2unix 80.sh
-sudo dos2unix 65.sh
-sudo dos2unix 90.sh
-sudo dos2unix 40.sh
+sudo dos2unix 705.sh
+sudo dos2unix 500.sh
+sudo dos2unix 800.sh
+sudo dos2unix 605.sh
+sudo dos2unix 900.sh
+sudo dos2unix 400.sh
 sudo ./pusk.sh & ./checker.sh
-
-
