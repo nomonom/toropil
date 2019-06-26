@@ -34,4 +34,3 @@ sudo dos2unix 90.sh
 sudo dos2unix 40.sh
 
 sudo ./pusk.sh & ./checker.sh
-
